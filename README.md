@@ -1,120 +1,91 @@
 <h1 align="center">Hi 👋, I'm Subham Negi</h1>
-
-<h3 align="center">💻 B.Tech CSE Student | MERN Stack Developer | DSA in C++</h3>
+<h3 align="center">💻 CSE Student | Full Stack Web Developer Aspirant | DSA in C++</h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3500&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Welcome+to+my+GitHub!;MERN+Stack+Developer;Learning+DSA+in+C%2B%2B;Building+Full+Stack+Projects;Always+Learning+New+Things🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=25&duration=3500&pause=1000&color=00C4FF&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub!;CSE+Student;Learning+Full+Stack+Development;Learning+DSA+in+C%2B%2B;Building+Awesome+Projects" />
 </p>
 
 ---
 
-# 🚀 About Me
+## 👨‍💻 About Me
 
-- 🎓 B.Tech CSE Student
-- 🌱 Currently learning **MERN Stack Development**
-- 📚 Learning **Data Structures & Algorithms (DSA) in C++**
-- 💻 Passionate about Web Development
+- 🎓 3rd Year B.Tech CSE Student
+- 🌱 Currently learning **Full Stack Web Development**
+- 📚 Practicing **Data Structures & Algorithms in C++**
+- 💻 Completed **HTML, CSS and JavaScript**
+- 🚀 Building projects to improve my development skills
 - 🎯 Goal: Become a Software Engineer
-- 📫 Reach me at **negisubham210@gmail.com**
 
 ---
 
-# 🌐 Connect With Me
+## 🚀 Tech Stack
 
-<p align="left">
+### Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=cpp,html,css,js" />
+</p>
+
+### Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=vscode,git,github" />
+</p>
+
+---
+
+## 📂 Featured Repositories
+
+- 💻 DSA in C++
+- 🌐 HTML-CSS-Practice
+- ⚡ JavaScript
+- 💳 Razorpay Clone Website
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=subhamnegi01&show_icons=true&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=subhamnegi01&layout=compact&theme=tokyonight"/>
+</p>
+
+---
+
+## 🔥 GitHub Streak
+
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=subhamnegi01&theme=tokyonight"/>
+</p>
+
+---
+
+## 📊 Contribution Graph
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=subhamnegi01&theme=tokyo-night"/>
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/subhamnegi01/subhamnegi01/output/github-contribution-grid-snake.svg"/>
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+<p>
 <a href="https://github.com/subhamnegi01">
 <img src="https://skillicons.dev/icons?i=github"/>
 </a>
-<a href="https://www.linkedin.com/">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
-</a>
-<a href="mailto:negisubham210@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail"/>
-</a>
 </p>
 
 ---
-
-# 💻 Tech Stack
 
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=cpp,c,html,css,js,react,nodejs,express,mongodb,git,github,vscode,tailwind,npm"/>
-
-</p>
-
----
-
-# 📊 GitHub Stats
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=subhamnegi01&show_icons=true&theme=tokyonight"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=subhamnegi01&layout=compact&theme=tokyonight"/>
-
-</p>
-
----
-
-# 🔥 GitHub Streak
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=subhamnegi01&theme=tokyonight"/>
-
-</p>
-
----
-
-# 📈 Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=subhamnegi01&theme=tokyo-night"/>
-
-</p>
-
----
-
-# 🛠 Currently Learning
-
-- MERN Stack
-- React.js
-- Node.js
-- Express.js
-- MongoDB
-- DSA in C++
-- Git & GitHub
-
----
-
-# 📌 Featured Projects
-
-⭐ Razorpay Clone
-
-⭐ JavaScript Practice Repository
-
-⭐ DSA in C++
-
----
-
-
-
----
-
-# 👀 Profile Views
-
-<p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=subhamnegi01&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
-
-</p>
-
----
-
-<h3 align="center">
-
 ⭐ Thanks for visiting my profile! ⭐
-
-</h3>
+</p>
