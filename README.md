@@ -73,6 +73,14 @@
 
 ---
 
+## 📈 Total Contributions
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=subhamnegi01&theme=tokyonight" />
+</p>
+
+---
+
 # 📚 Currently Learning
 
 - ✅ HTML5
