@@ -73,10 +73,10 @@
 
 ---
 
-## 📈 Total Contributions
+## 📈 GitHub Contribution Calendar
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=subhamnegi01&theme=tokyonight" />
+  <img src="https://github-contributions-api.jogruber.de/v4/subhamnegi01?y=last" />
 </p>
 
 ---
