@@ -77,7 +77,16 @@
 # 📊 GitHub Stats
 
 <p align="center">
-<img height="170" src="https://streak-stats.demolab.com?user=subhamnegi01&theme=tokyonight&hide_border=true"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=subhamnegi01&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=subhamnegi01&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+# 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=subhamnegi01&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -85,7 +94,7 @@
 # 📈 Contribution Graph
 
 <p align="center">
-<img src="https://ghchart.rshah.org/58a6ff/subhamnegi01" />
+  <img src="https://ghchart.rshah.org/58a6ff/subhamnegi01" />
 </p>
 
 ---
@@ -93,9 +102,8 @@
 # 📉 Activity Graph
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=subhamnegi01&theme=tokyo-night&hide_border=true"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=subhamnegi01&theme=tokyo-night&hide_border=true" />
 </p>
-
 ---
 
 # 💻 LeetCode
